@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+p.odd-numbers {
+    background: lightpink;
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+div#one-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+div#another-id {
+    background: lightgreen;
+    font-weight: bold;
+}
